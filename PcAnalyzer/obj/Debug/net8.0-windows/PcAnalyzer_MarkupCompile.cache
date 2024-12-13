@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Mine\Projects\Freelance\PcAnalyzer\PcAnalyzer\PcAnalyzer\obj\Debug\net8.0-windows\
+D:\Work\pcAnalyzerTest\dev\PC-Info\PcAnalyzer\obj\Debug\net8.0-windows\
 PcAnalyzer
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Mine\Projects\Freelance\PcAnalyzer\PcAnalyzer\PcAnalyzer\App.xaml
+D:\Work\pcAnalyzerTest\dev\PC-Info\PcAnalyzer\App.xaml
 3560956000
 
 171763410465
-217-404740027
+2151607709807
 MainWindow.xaml;Themes\DarkTheme.xaml;Themes\LightTheme.xaml;
 
 False

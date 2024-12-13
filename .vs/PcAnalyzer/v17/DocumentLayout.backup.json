@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\",
+  "WorkspaceRootPath": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|c:\\mine\\projects\\freelance\\pcanalyzer\\pcanalyzer\\pcanalyzer\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|solutionrelative:pcanalyzer\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|d:\\work\\pcanalyzertest\\dev\\pc-info\\pcanalyzer\\models\\outlookprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|solutionrelative:pcanalyzer\\models\\outlookprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|c:\\mine\\projects\\freelance\\pcanalyzer\\pcanalyzer\\pcanalyzer\\models\\os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|solutionrelative:pcanalyzer\\models\\os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|c:\\mine\\projects\\freelance\\pcanalyzer\\pcanalyzer\\pcanalyzer\\models\\officeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|d:\\work\\pcanalyzertest\\dev\\pc-info\\pcanalyzer\\models\\officeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|solutionrelative:pcanalyzer\\models\\officeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|c:\\mine\\projects\\freelance\\pcanalyzer\\pcanalyzer\\pcanalyzer\\models\\outlookprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|solutionrelative:pcanalyzer\\models\\outlookprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|d:\\work\\pcanalyzertest\\dev\\pc-info\\pcanalyzer\\models\\os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|solutionrelative:pcanalyzer\\models\\os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|d:\\work\\pcanalyzertest\\dev\\pc-info\\pcanalyzer\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28ED07B-C30D-47E7-B731-03879267E810}|PcAnalyzer\\PcAnalyzer.csproj|solutionrelative:pcanalyzer\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 275,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "PcAnalyzer\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "PcAnalyzer\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAI4AAAAJAAAAAAAAAA==",
+              "Title": "OutlookProgram.cs",
+              "DocumentMoniker": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\PcAnalyzer\\Models\\OutlookProgram.cs",
+              "RelativeDocumentMoniker": "PcAnalyzer\\Models\\OutlookProgram.cs",
+              "ToolTip": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\PcAnalyzer\\Models\\OutlookProgram.cs",
+              "RelativeToolTip": "PcAnalyzer\\Models\\OutlookProgram.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwCYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:04:05.1Z",
+              "WhenOpened": "2024-12-13T17:52:23.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OS.cs",
+              "DocumentMoniker": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\PcAnalyzer\\Models\\OS.cs",
+              "RelativeDocumentMoniker": "PcAnalyzer\\Models\\OS.cs",
+              "ToolTip": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\PcAnalyzer\\Models\\OS.cs",
+              "RelativeToolTip": "PcAnalyzer\\Models\\OS.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:09:45.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OS.cs",
-              "DocumentMoniker": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\Models\\OS.cs",
-              "RelativeDocumentMoniker": "PcAnalyzer\\Models\\OS.cs",
-              "ToolTip": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\Models\\OS.cs",
-              "RelativeToolTip": "PcAnalyzer\\Models\\OS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEBAAAAAAAAAAAAAA==",
+              "Title": "OfficeProgram.cs",
+              "DocumentMoniker": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\PcAnalyzer\\Models\\OfficeProgram.cs",
+              "RelativeDocumentMoniker": "PcAnalyzer\\Models\\OfficeProgram.cs",
+              "ToolTip": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\PcAnalyzer\\Models\\OfficeProgram.cs",
+              "RelativeToolTip": "PcAnalyzer\\Models\\OfficeProgram.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv0QAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:56:09.646Z"
+              "WhenOpened": "2024-12-13T17:06:21.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OutlookProgram.cs",
-              "DocumentMoniker": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\Models\\OutlookProgram.cs",
-              "RelativeDocumentMoniker": "PcAnalyzer\\Models\\OutlookProgram.cs",
-              "ToolTip": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\Models\\OutlookProgram.cs",
-              "RelativeToolTip": "PcAnalyzer\\Models\\OutlookProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\PcAnalyzer\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PcAnalyzer\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\Work\\pcAnalyzerTest\\dev\\PC-Info\\PcAnalyzer\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "PcAnalyzer\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwKkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:27:26.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OfficeProgram.cs",
-              "DocumentMoniker": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\Models\\OfficeProgram.cs",
-              "RelativeDocumentMoniker": "PcAnalyzer\\Models\\OfficeProgram.cs",
-              "ToolTip": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\Models\\OfficeProgram.cs",
-              "RelativeToolTip": "PcAnalyzer\\Models\\OfficeProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:28:52.856Z"
+              "WhenOpened": "2024-12-13T12:45:52.471Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,2 @@
+D:\Work\pcAnalyzerTest\dev\PC-Info\PcAnalyzer\bin\Release\net8.0-windows\win-x64\publish\PcAnalyzer.pdb
+D:\Work\pcAnalyzerTest\dev\PC-Info\PcAnalyzer\bin\Release\net8.0-windows\win-x64\publish\PcAnalyzer.exe

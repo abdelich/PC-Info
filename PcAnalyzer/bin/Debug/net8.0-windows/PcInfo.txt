@@ -1,37 +1,42 @@
 Диски
 	Диск 1:
-	    Тип: NVMe
-	    Размер: 1908 ГБ
-	    Фирма: Samsung
-	    Модель: MZVL22T0HBLB-00B00
+	    Тип: HDD
+	    Размер: 932 ГБ
+	    Фирма: Seagate
+	    Модель: ST1000LX015-1U7172
+	Диск 2:
+	    Тип: HDD
+	    Размер: 238 ГБ
+	    Фирма: Western Digital
+	    Модель: PC SN520 SDAPNUW-256G-1002
 	
 -------------------------------
 
 Видеокарты
 	Видеокарта 1
 	    Фирма: Intel
-	    Модель: UHD Graphics
+	    Модель: UHD Graphics 630
 	Видеокарта 2
 	    Фирма: NVIDIA
-	    Модель: GeForce RTX 4090 Laptop GPU
+	    Модель: GeForce RTX 2060
 	
 -------------------------------
 
 ПК
-	Фирма: Micro-Star International Co., Ltd.
-	Модель: Vector GP78HX 13VI
+	Фирма: ASUSTeK COMPUTER INC.
+	Модель: Strix GL504GV_GL504GV
 -------------------------------
 
 Сеть
-	Имя компьютера: MSI
+	Имя компьютера: abdelich-old
 	Домен: -
-	Рабочая группа: WORKGROUP
+	Рабочая группа: WORKGROUP-TEST
 	
 -------------------------------
 
 Процессор
 	Производитель: Intel
-	Модель: 13th Gen (R) Core(TM) i9-13980HX
+	Модель: (R) Core(TM) i7-8750H CPU @ 2.20GHz
 -------------------------------
 
 Оперативная память
@@ -46,24 +51,10 @@
 	
 -------------------------------
 
-Операционная система
-	Версия: Майкрософт Windows 11 Домашняя (Version: 10.0.22631)
-	Архитектура: X64
-	Тип лицензии: Licensed
-	Product Keys:
-	OEM ключ (из SoftwareProtectionPlatform): 37GNV-YCQVD-38XP9-T848R-FC2HD
-	Ключ из DigitalProductId: Q8MMR-23RJY-JHR22-YKJP7-VT9QQ
-	Ключ из DigitalProductId4: JVF76-6TMPY-98BXW-76D3P-J4VP7
-	Ключ из WMI: *****-*****-*****-*****-FC2HD
-	Ключ из HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform: DGGWQ-C2G3G-3G94T-FRPGJ-Q623Y
-	Ключ из HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform: BBBBD-6W43Y-HBWJB-CHD68-FWQVQ
-	Ключ из HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform: CQB8X-4VV3C-QD3WY-3P6JX-7B7TH
--------------------------------
-
 Пользователи
 	Пользователь 1:
-	    Имя: sarmi
-	    Логин: sarmi
+	    Имя: User
+	    Логин: User
 	    Домен: Локальная учетная запись
 	    Пароль: Невозможно получить (хранится в зашифрованном виде)
 	Пользователь 2:
@@ -81,42 +72,39 @@
 
 Сетевые карты
 	    Карта 1:
-	        Фирма: Intel
-	        Модель: (R) Wi-Fi 6E AX211 160MHz
-	        MAC-адрес: 74:3A:F4:87:72:24
-	        Локальный IP: 192.168.1.156
-	        Публичный IP: 2.248.117.58
+	        Фирма: Неизвестный производитель
+	        Модель: LogMeIn Hamachi Virtual Ethernet Adapter
+	        MAC-адрес: 7A:79:19:43:AB:13
+	        Локальный IP: Не найден
+	        Публичный IP: 217.116.228.14
 	    Карта 2:
+	        Фирма: Неизвестный производитель
+	        Модель: VirtualBox Host-Only Ethernet Adapter
+	        MAC-адрес: 0A:00:27:00:00:14
+	        Локальный IP: 192.168.56.1
+	        Публичный IP: 217.116.228.14
+	    Карта 3:
+	        Фирма: Intel
+	        Модель: (R) Wireless-AC 9560 160MHz
+	        MAC-адрес: 04:EA:56:B7:6E:43
+	        Локальный IP: 10.78.9.75
+	        Публичный IP: 217.116.228.14
+	    Карта 4:
 	        Фирма: Неизвестный производитель
 	        Модель: Software Loopback Interface 1
 	        MAC-адрес: 
 	        Локальный IP: 127.0.0.1
-	        Публичный IP: 2.248.117.58
+	        Публичный IP: 217.116.228.14
 	
 -------------------------------
 
-Office пакет
-	 - Microsoft Office LTSC Professional Plus 2021 - en-us
-	   Тип лицензии: Volume
-	   Версия: 16.0.14332.20812
-	   Ключ продукта: Не удалось извлечь (возможно Click-to-Run или подписка)
-	     - Microsoft Word (version: 16.0.14332.20812)
-	     - Microsoft Excel (version: 16.0.14332.20812)
-	     - Microsoft PowerPoint (version: 16.0.14332.20812)
-	     - Microsoft Outlook (version: 16.0.14332.20812)
-	     - Microsoft Access (version: 16.0.14332.20812)
-	     - Microsoft Publisher (version: 16.0.14332.20812)
-	     - Microsoft OneNote (version: 16.0.14332.20812)
--------------------------------
-
 Outlook
-	Профиль Outlook: Outlook
-	C:\Users\sarmi\Documents\Outlook Files\test.pst
-	C:\Users\sarmi\AppData\Local\Microsoft\Outlook\al.bakri@nure.ua.ost
-	C:\Users\sarmi\AppData\Local\Microsoft\Outlook\sarminiabdel@gmail.com.ost
-	Найденные аккаунты:
-	sarminiabdel@gmail.com
-	al.bakri@nure.ua
+	Outlook версия: Outlook.Application.16
+	Аккаунты в Outlook:
+	- Файл данных Outlook
+	Файлы данных Outlook:
+	Хранилище: Файл данных Outlook
+	Файл данных: C:\Users\User\Documents\Файлы Outlook\Outlook.pst
 	
 -------------------------------
 

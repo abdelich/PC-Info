@@ -65,9 +65,9 @@ namespace PcAnalyzer.ViewModel
             try
             {
                 var components = new List<IExportable>
-        {
-            Drive, GPU, PC, Network, CPU, RAM, OS, User, NetworkCard, OfficeProgram, OutlookProgram
-        };
+                {
+                    Drive, GPU, PC, Network, CPU, RAM, OS, User, NetworkCard, OfficeProgram, OutlookProgram
+                };
                 if (components.Any(c => c.IsChecked))
                 {
                     string textContent = GenerateTextContent();

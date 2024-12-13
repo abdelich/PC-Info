@@ -14,11 +14,11 @@
     <None Remove="Images\favicon.ico" />
     <None Remove="Images\lab_01_blue.png" />
     <None Remove="Images\lab_01_blue.svg" />
+    <None Remove="ProductKeyScanner.exe" />
+    <None Remove="WinKeyFinder.exe" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="ILMerge" Version="3.0.41" />
-    <PackageReference Include="MemorySharp" Version="1.2.0" />
     <PackageReference Include="Microsoft.Office.Interop.Outlook" Version="15.0.4797.1004" />
     <PackageReference Include="PdfSharp" Version="6.1.1" />
     <PackageReference Include="System.DirectoryServices.AccountManagement" Version="9.0.0" />
@@ -29,6 +29,12 @@
     <Resource Include="Images\favicon.ico" />
     <Resource Include="Images\lab_01_blue.png" />
     <Resource Include="Images\lab_01_blue.svg" />
+    <EmbeddedResource Include="ProductKeyScanner.exe">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinKeyFinder.exe">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>
