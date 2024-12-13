@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "8G7tXK6zrA0=",
+  "success": true,
+  "projectFilePath": "C:\\Mine\\Projects\\Freelance\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer\\PcAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarmi\\.nuget\\packages\\fasm.net\\1.70.3\\fasm.net.1.70.3.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\ilmerge\\3.0.41\\ilmerge.3.0.41.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\memorysharp\\1.2.0\\memorysharp.1.2.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.0\\microsoft.bcl.cryptography.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1004\\microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\pdfsharp\\6.1.1\\pdfsharp.6.1.1.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.directoryservices\\9.0.0\\system.directoryservices.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.directoryservices.accountmanagement\\9.0.0\\system.directoryservices.accountmanagement.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.directoryservices.protocols\\9.0.0\\system.directoryservices.protocols.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.formats.asn1\\9.0.0\\system.formats.asn1.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sarmi\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Fasm.NET 1.70.3\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Fasm.NET",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MemorySharp 1.2.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MemorySharp",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Mine\Projects\Freelance\PcAnalyzer\PcAnalyzer\PcAnalyzer\bin\Release\net8.0-windows\win-x64\publish\PcAnalyzer.pdb
+C:\Mine\Projects\Freelance\PcAnalyzer\PcAnalyzer\PcAnalyzer\bin\Release\net8.0-windows\win-x64\publish\PcAnalyzer.exe

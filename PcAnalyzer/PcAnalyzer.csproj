@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Images\favicon.ico</ApplicationIcon>
+    <StartupObject>PcAnalyzer.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\favicon.ico" />
+    <None Remove="Images\lab_01_blue.png" />
+    <None Remove="Images\lab_01_blue.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ILMerge" Version="3.0.41" />
+    <PackageReference Include="MemorySharp" Version="1.2.0" />
+    <PackageReference Include="Microsoft.Office.Interop.Outlook" Version="15.0.4797.1004" />
+    <PackageReference Include="PdfSharp" Version="6.1.1" />
+    <PackageReference Include="System.DirectoryServices.AccountManagement" Version="9.0.0" />
+    <PackageReference Include="System.Management" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\favicon.ico" />
+    <Resource Include="Images\lab_01_blue.png" />
+    <Resource Include="Images\lab_01_blue.svg" />
+  </ItemGroup>
+
+</Project>
